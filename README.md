@@ -10,10 +10,8 @@ bioRxiv, 2021.
 A Python package with the code for behavioral analyses can be found at:  
 https://github.com/arnefmeyer/mousecam
 
-
-A Python package for the GLM analysis, including example data, will be made 
-available upon publication of the paper.
+A Python package for the GLM analysis:  
+https://github.com/arnefmeyer/neuro-glm
 
 Detailed building instructions can be found in a separate repository:  
 https://github.com/MatteoGuardamagna/Hybrid_drive
-
